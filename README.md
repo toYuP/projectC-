@@ -1,1 +1,4 @@
 # projectC-
+
+PrintscreenConvert
+・Printscreenで画面キャプチャ後ファイル名+番号でファイルを作成するプログラムの予定
